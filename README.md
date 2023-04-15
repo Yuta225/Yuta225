@@ -1,7 +1,7 @@
 ### Hi there 👋👋👋👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuta225&show_icons=true&theme=merko)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=yuta225&layout=compact&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuta225&show_icons=true&theme=merko&count_private=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=yuta225&layout=compact&theme=merko&count_private=true)
 
 [![AtCoder Trophies](https://atcoder-trophies.vercel.app/api/v1/atcoder?username=ytln&theme=matrix)](https://github.com/KATO-Hiro/AtCoderTrophies)
 
