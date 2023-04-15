@@ -1,6 +1,6 @@
 ### Hi there 👋👋👋👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuta225&count_private=true&theme=merko)
+![Anurag's GitHub stats]()
 
 <!--
 **Yuta225/Yuta225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
