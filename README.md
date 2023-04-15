@@ -1,12 +1,10 @@
 ### Hi there 👋👋👋👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuta225&show_icons=true&theme=merko)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=yuta225&theme=merko)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=yuta225&layout=compact&theme=merko)
 
 [![AtCoder Trophies](https://atcoder-trophies.vercel.app/api/v1/atcoder?username=ytln&theme=matrix)](https://github.com/KATO-Hiro/AtCoderTrophies)
 
-
-https://atcoder.jp/users/ytln
 
 <!--
 **Yuta225/Yuta225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
